@@ -3,3 +3,7 @@ We investigate why ORB-SLAM is missing fre- quently occurring loop closures. Inv
 # ORB-SLAM missing Loop Closures in Kitti Dataset
 https://user-images.githubusercontent.com/78947608/167349820-6ba8a2e5-8344-4eda-a35a-25ea215c943f.mp4
 
+# ORB-SLAM missing Loop Closures in TUM-RGBD Dataset
+https://user-images.githubusercontent.com/78947608/167350816-2f2a2f6b-8b6d-48ee-ad7b-f84564ec9689.mp4
+
+
