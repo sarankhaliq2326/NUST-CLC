@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-
 
 # NUST-CLC Dataset
 ## Dynamic Sequences
-[Click here to download Dynamice Sequences](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing). To run with ROS, rosbags can be downloaded from [here](https://drive.google.com/drive/folders/1kaQB88lQgl7aUKUm0CVUlgg-bJI9Oda0?usp=sharing)
+Click [here](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing) to download Dynamice Sequences. To run with ROS, rosbags can be downloaded from [here](https://drive.google.com/drive/folders/1kaQB88lQgl7aUKUm0CVUlgg-bJI9Oda0?usp=sharing)
 
 ![50 - Dynamic Experiments](https://user-images.githubusercontent.com/78947608/167354052-be84e537-b1de-489a-ad14-66e3c5716653.jpg)
 
