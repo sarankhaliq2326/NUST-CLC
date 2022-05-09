@@ -14,3 +14,6 @@ https://user-images.githubusercontent.com/78947608/167351380-3980e9c3-a348-4051-
 https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-b132-a935f07272c9.mp4
 
 [Click here to download Dynamice Sequences](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing)
+
+![50 - Dynamic Experiments](https://user-images.githubusercontent.com/78947608/167354052-be84e537-b1de-489a-ad14-66e3c5716653.jpg)
+
