@@ -13,4 +13,4 @@ https://user-images.githubusercontent.com/78947608/167351380-3980e9c3-a348-4051-
 ## ORB-SLAM missing Loop Closures in NUST-CLC Dataset with Dynamic Change
 https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-b132-a935f07272c9.mp4
 
-There are 50 Sequences available and can be downloaded from the [link] (https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing)
+There are 50 Sequences available and can be downloaded from the [link](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing)
