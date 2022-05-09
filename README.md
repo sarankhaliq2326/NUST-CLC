@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/78947608/167350816-2f2a2f6b-8b6d-48ee-
 ## ORB-SLAM missing Loop Closures in NUST-CLC Dataset with Dynamic Change
 https://user-images.githubusercontent.com/78947608/167351380-3980e9c3-a348-4051-ae09-87a276366b86.mp4
 
-## ORB-SLAM missing Loop Closures in NUST-CLC Dataset with Dynamic Change
+## ORB-SLAM missing Loop Closures in NUST-CLC Dataset with Viewpoint Change
 https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-b132-a935f07272c9.mp4
 
 
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/78947608/167363192-7827348e-f346-4d7c-
 https://user-images.githubusercontent.com/78947608/167363950-b4483ab1-34ff-41ad-bcff-f545cb11e530.mp4
 
 
-## Comparison of trajectories of ORB-SLAM and our pro-posed approach with ground truth. 
+# Comparison of trajectories of ORB-SLAM and our pro-posed approach with ground truth. 
 
 Loop closure and better alignment with ground truth with our approach is evident.
 ![Comparison](https://user-images.githubusercontent.com/78947608/167364467-c16e9c5c-c712-4a65-9321-2b30e6d79adb.png)
