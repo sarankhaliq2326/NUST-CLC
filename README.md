@@ -6,4 +6,7 @@ https://user-images.githubusercontent.com/78947608/167349820-6ba8a2e5-8344-4eda-
 # ORB-SLAM missing Loop Closures in TUM-RGBD Dataset
 https://user-images.githubusercontent.com/78947608/167350816-2f2a2f6b-8b6d-48ee-ad7b-f84564ec9689.mp4
 
+# ORB-SLAM missing Loop Closures in NUST-CLC Dataset with Dynamic Change
+https://user-images.githubusercontent.com/78947608/167351380-3980e9c3-a348-4051-ae09-87a276366b86.mp4
+
 
