@@ -16,12 +16,12 @@ https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-
 
 # NUST-CLC Dataset
 ## Dynamic Sequences
-Click [here](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing) to download Dynamice Sequences. To run with ROS, rosbags can be downloaded from [here](https://drive.google.com/drive/folders/1kaQB88lQgl7aUKUm0CVUlgg-bJI9Oda0?usp=sharing)
+Click [here](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing) to download Dynamice Sequences. To run with ROS, [rosbags](https://drive.google.com/drive/folders/1kaQB88lQgl7aUKUm0CVUlgg-bJI9Oda0?usp=sharing) are also available.
 
 ![50 - Dynamic Experiments](https://user-images.githubusercontent.com/78947608/167354052-be84e537-b1de-489a-ad14-66e3c5716653.jpg)
 
 ## Viewpoint Sequences
-[Click here to download Viewpoint Sequences](https://drive.google.com/drive/folders/11bOqQBHUmLUUMoB6JfUlBQz8VKaIvWkL?usp=sharing)
+Click [here](https://drive.google.com/drive/folders/11bOqQBHUmLUUMoB6JfUlBQz8VKaIvWkL?usp=sharing) to download Viewpoint Sequences. To run with ROS, [rosbags](https://drive.google.com/drive/folders/1rt6WpCodpaPnXxQijNK9vOodPPHttQZx?usp=sharing) are also available. 
 
 ![50 - Viewpoint Experiments](https://user-images.githubusercontent.com/78947608/167355509-c94b5b28-68fa-4705-9093-c35a40f2dad5.jpg)
 
