@@ -25,3 +25,27 @@ Click [here](https://drive.google.com/drive/folders/11bOqQBHUmLUUMoB6JfUlBQz8VKa
 
 ![50 - Viewpoint Experiments](https://user-images.githubusercontent.com/78947608/167355509-c94b5b28-68fa-4705-9093-c35a40f2dad5.jpg)
 
+## Geometric Check is the main reason behined Loop Closure Failure in Dynamic and Viewpoint Sequences
+
+https://user-images.githubusercontent.com/78947608/167362621-32d9eee3-abe0-46d4-bb3a-8a49dc335d53.mp4
+
+
+# ORB-SLAM3 misses Loop Closures 
+
+## Indoor Sequences 
+
+https://user-images.githubusercontent.com/78947608/167363192-7827348e-f346-4d7c-9208-7243f1e47289.mp4
+
+## Outdoor Sequences 
+
+https://user-images.githubusercontent.com/78947608/167363950-b4483ab1-34ff-41ad-bcff-f545cb11e530.mp4
+
+
+## Comparison of trajectories of ORB-SLAM and our pro-posed approach with ground truth. 
+
+Loop closure and better alignment with ground truth with our approach is evident.
+![Comparison](https://user-images.githubusercontent.com/78947608/167364467-c16e9c5c-c712-4a65-9321-2b30e6d79adb.png)
+
+
+
+
