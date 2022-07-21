@@ -9,7 +9,7 @@ Finally, we expose the bias in the well known public dataset (KITTI) due to whic
 ## Understanding and Loading KITTI Scene Graphs
 Load the .mat files (e.g. scene-graph-kitti-00) to your MATLAB (or whatever you want) workspace. The data would be loaded to variable 'SG_00'. Values at locations e.g. SG_00(4,5), would indicate number of SIFT feature matches surviving RANSAC between images 4, and 5 when the sequence is sampled at 10 fps. For other sequences, only the sequence number changes e.g. SG_00 changes to SG_02 for sequence KITTI-02.
 
- SG## ORB-SLAM missing Loop Closures in Kitti Dataset
+## ORB-SLAM missing Loop Closures in Kitti Dataset
 https://user-images.githubusercontent.com/78947608/167349820-6ba8a2e5-8344-4eda-a35a-25ea215c943f.mp4
 
 ## ORB-SLAM missing Loop Closures in TUM-RGBD Dataset
