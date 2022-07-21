@@ -1,0 +1,203 @@
+=====
+Scale
+=====
+
+Seq No: 1
+Revisit: 2280-2586, 1570-1695
+Initial Visit: 0-271, 1361-1474
+
+Seq No: 2
+Revisit: 1995-2529
+Initial Visit: 0-391
+
+Seq No: 3
+Revisit: 2245-2917, 1712-1817
+Initial Visit: 0-162, 1495-1606
+
+Seq No: 4
+Revisit: 1912-1946
+Initial Visit: 0-140
+
+Seq No: 5
+Revisit: 2262-2564, 1472-1542
+Initial Visit: 0-325, 1324-1398
+
+Seq No: 6
+Revisit: 2378-2708, 1182-1312, 1778-1886
+Initial Visit: 0-362, 804-1035, 1617-1692 
+
+Seq No: 7
+Revisit: 2434-2607, 1574-1658, 1792-1965
+Initial Visit: 0-297, 1270-1465, 1195-1465
+
+Seq No: 8
+Revisit: 2028-2270, 882-1094
+Initial Visit: 0-316, 657-762
+
+Seq No: 9
+Revisit: 2211-2397, 920-1022 1434-1648
+Initial Visit: 0-176, 666-820, 794-1230 
+
+Seq No: 10
+Revisit: 1971-2173, 1161-1303
+Initial Visit: 0-118, 816-1022
+
+Seq No: 11
+Revisit: 1573-1804
+Initial Visit: 0-156
+
+Seq No: 12
+Revisit: 1205-1461
+Initial Visit: 0-259
+
+Seq No: 13
+Revisit: 1408-1604
+Initial Visit: 0-129
+
+Seq No: 14
+Revisit: 1727-1931, 1310-1440
+Initial Visit: 0-140, 1059-1180
+
+Seq No: 15
+Revisit: 1930-2351, 635-723
+Initial Visit: 0-254, 426-544 
+
+Seq No: 16
+Revisit: 1580-2084, 1341-1374
+Initial Visit: 0-371, 1110-1252
+
+Seq No: 17
+Revisit: 1514-1805
+Initial Visit: 0-221 
+
+Seq No: 18
+Revisit: 2190-2449, 960-1176, 1633-1765
+Initial Visit: 0-311, 736-839, 1450-1527
+
+Seq No: 19
+Revisit: 1594-1950
+Initial Visit: 0-150
+
+Seq No: 20
+Revisit: 1863-2136, 1111-1205
+Initial Visit: 0-242, 848-965
+
+Seq No: 21
+Revisit: 1590-2015 Sudden Jump at 2016
+Initial Visit: 0-144
+
+Seq No: 22
+Revisit: 1322-1599
+Initial Visit: 0-618
+
+Seq No: 23
+Revisit: 1171-1439
+Initial Visit: 0-138
+
+Seq No: 24
+Revisit: 1185-1415
+Initial Visit: 0-110
+
+Seq No: 25
+Revisit: 1238-1457
+Initial Visit: 0-137
+
+Seq No: 26
+Revisit: 1168-1339
+Initial Visit: 0-124
+
+Seq No: 27
+Revisit: 1646-1835
+Initial Visit: 0-200 
+
+Seq No: 28
+Revisit: 1230-1432
+Initial Visit: 0-175
+
+Seq No: 29
+Revisit: 1515-1979
+Initial Visit: 0-100
+
+Seq No: 30
+Revisit: 1135-1319
+Initial Visit: 0-140
+
+Seq No: 31
+Revisit: 2852-3000, 2052-2161
+Initial Visit: 0-465, 1759-1882
+
+Seq No: 32
+Revisit: 1380-1530
+Initial Visit: 0-118
+
+Seq No: 33
+Revisit: 1090-1230
+Initial Visit: 0-285
+
+Seq No: 34
+Revisit: 1508-1610
+Initial Visit: 0-140
+
+Seq No: 35
+Revisit: 2120-2330
+Initial Visit: 0-300
+
+Seq No: 36
+Revisit: 1760-2440
+Initial Visit: 0-460
+
+Seq No: 37
+Revisit: 1764-2049
+Initial Visit: 0-415
+
+Seq No: 38
+Revisit: 1960-1980
+Initial Visit: 0-408
+
+Seq No: 39
+Revisit: 1471-1550
+Initial Visit: 0-209
+
+Seq No: 40
+Revisit: 1512-1724, 1140-1198
+Initial Visit: 0-157, 1004-1058
+
+Seq No: 41
+Revisit: 1559-1851
+Initial Visit: 0-147
+
+Seq No: 42
+Revisit: 1391-1492
+Initial Visit: 0-183
+
+Seq No: 43
+Revisit: 1399-1563
+Initial Visit: 0-227
+
+Seq No: 44
+Revisit: 1191-1429
+Initial Visit: 0-190
+
+Seq No: 45
+Revisit: 1297-1664
+Initial Visit: 0-203
+
+Seq No: 46
+Revisit: 1231-1516
+Initial Visit: 0-193
+
+Seq No: 47
+Revisit: 1250-1382
+Initial Visit: 0-157
+
+Seq No: 48
+Revisit: 1137-1362
+Initial Visit: 0-81
+
+Seq No: 49
+Revisit: 1457-1577, 713-1072
+Initial Visit: 0-69, 531-598
+
+Seq No: 50
+Revisit: 984-1130
+Initial Visit: 0-111
