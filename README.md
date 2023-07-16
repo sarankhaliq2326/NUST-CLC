@@ -23,6 +23,11 @@ https://user-images.githubusercontent.com/78947608/167351769-3df1596e-d365-4dee-
 
 
 # NUST-CLC Dataset
+Email for Dataset, if following link is not working
+wajahat.hussain@seecs.edu.pk
+latif.anjum@seecs.edu.pk
+saran.khaliq@gmail.com
+
 ## Dynamic Sequences
 Click [here](https://drive.google.com/drive/folders/1-4cPT6h8jgzjqVbbZInyp3XrXTaWNxBD?usp=sharing) to download Dynamice Sequences. To run with ROS, [rosbags](https://drive.google.com/drive/folders/1kaQB88lQgl7aUKUm0CVUlgg-bJI9Oda0?usp=sharing) are also available.
 
